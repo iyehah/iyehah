@@ -3,11 +3,16 @@
 </h1>
 <br/>
 <div align="center">
+    <img width="25%" src="https://raw.githubusercontent.com/npentrel/octoclippy/master/gifs/doubleblink.gif"/><br>
+</div>
+<br/>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,vscode,github,figma,git"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,react,next,bootstrap,tailwind"/><br>
     <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,c" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql"/><br>
 </div>
+
 
 <br/>
 <div align="center"> 
