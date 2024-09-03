@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyehah&hide=html,css&hide_border=true&hide_progress=false&layout=donut&langs_count=6&theme=transparent" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyehah&hide=html,css&hide_border=true&hide_progress=false&layout=pie&langs_count=6&theme=transparent" alt="Top Languages">
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iyehah&theme=transparent&hide_border=true" alt="Repos Per Language">
